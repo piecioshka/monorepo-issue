@@ -1,4 +1,4 @@
-# monorepo-problem
+# monorepo-issue
 
 :hotsprings: Repo with three packages where two has the same dependency.
 
@@ -19,7 +19,7 @@ yarn workspace @app/package-b build:prod
 yarn workspace @app/main build:prod
 ```
 
-## Where is the problem? :warning:
+## Where is the issue? :warning:
 
 Bundle file: `packages/main/dist/index.js` contains **duplicated** `moment.js`.
 
