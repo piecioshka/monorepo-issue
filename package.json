@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "monorepo-problem",
+    "name": "monorepo-issue",
     "version": "1.0.0",
     "author": "Piotr Kowalski <piecioshka@gmail.com>",
     "license": "MIT",
